@@ -108,7 +108,7 @@ Enter Your Choice:
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/ParneetKaur-coder/StudentRegistrationSystem.git
+https://github.com/ParneetKaur-coder/Syntecxhub_Student_Registration_System.git
 ```
 
 ## 📂 Open the Project
